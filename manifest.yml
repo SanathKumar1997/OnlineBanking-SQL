@@ -1,0 +1,7 @@
+---
+applications:
+- name: smartyoo  
+  memory: 128M
+  host: smartyoo
+  domain: eu-gb.mybluemix.net
+  timeout: 180 sec
